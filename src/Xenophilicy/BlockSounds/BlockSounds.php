@@ -174,7 +174,6 @@ class BlockSounds extends PluginBase implements Listener {
     }
     
     public function onDisable(){
-        $this->getLogger()->info("Saving block sounds...");
         $this->blocksConfig->setAll(self::$blocks);
         $this->blocksConfig->save();
     }
