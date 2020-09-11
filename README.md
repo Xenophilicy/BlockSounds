@@ -1,6 +1,6 @@
 # BlockSounds
 [![Poggit BlockSounds](https://poggit.pmmp.io/shield.state/BlockSounds)](https://poggit.pmmp.io/p/BlockSounds)
-[![HitCount](http://hits.dwyl.io/Xenophilicy/BlockSounds.svg)](http://hits.dwyl.io/Xenophilicy/BlockSounds)
+[![HitCount](http://hits.xenoservers.net:4000/Xenophilicy/BlockSounds.svg)](http://hits.xenoservers.net:4000/)
 [![Discord Chat](https://img.shields.io/discord/490677165289897995.svg)](https://discord.xenoservers.net)
 
 ## Information
